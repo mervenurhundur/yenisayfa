@@ -1,4 +1,4 @@
-import main as st
+import streamlit as st
 import openai
 
 # API anahtarını ayarlayın
